@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/DroomerTeam",
+      "destination": "/droomer.html"
+    },
+    {
+      "source": "/Droomermonaco",
+      "destination": "/monaco.html"
+    },
+    {
+      "source": "/downloaddroomer",
+      "destination": "/downlaod.html"
+    }
+  ]
+}
