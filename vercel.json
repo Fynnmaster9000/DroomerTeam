@@ -11,6 +11,10 @@
     {
       "source": "/getdroomer",
       "destination": "/downlaod.html"
+    },
+    {
+      "source": "/deleter",
+      "destination": "/deleter.html"
     }
   ]
 }
